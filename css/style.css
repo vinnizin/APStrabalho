@@ -12,7 +12,7 @@ header {
     margin-bottom: 5%;
     width: 85%;
     border-radius: 12px;
-    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.219);
+    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.288);
 }
 hr{
     width: 70%;
@@ -21,4 +21,13 @@ h5{
     margin-left: 5%;
     margin-bottom: 5%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fundofloat{
+    background-color: #F8f9fa;
+    margin: 50px 0;
+}
+
+#hrum{
+    color: #F8f9fa;
 }
