@@ -3959,6 +3959,9 @@ textarea.form-control-lg {
   background-color: transparent;
   border-color: transparent;
 }
+.nav-item {
+  margin: 0 10px;
+}
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
@@ -4058,8 +4061,9 @@ textarea.form-control-lg {
 
 .navbar-collapse {
   flex-basis: 100%;
-  flex-grow: 1;
+  flex-grow: 0;
   align-items: center;
+  margin: 0 8px;
 }
 
 .navbar-toggler {
