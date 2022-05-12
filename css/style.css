@@ -1,3 +1,16 @@
+.alterafonte {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+#cima {
+    text-align: center;
+}
+
+#cimalinha {
+    width: 10%;
+}
+
 header {
     position: fixed;
     width: 100%;
@@ -19,12 +32,6 @@ header {
 
 hr{
     width: 70%;
-}
-
-h5{
-    margin-left: 5%;
-    margin-bottom: 5%;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .fundofloat{
@@ -61,12 +68,6 @@ h5{
     background-image: url("../imagens/3.jpg");
     color: black;
 }
-p{
-    color: white;
-}
-h5{
-    color:white;
-}
 
 #h51{
     color:black;
@@ -77,4 +78,6 @@ h5{
 }
 .txt{
     color:black;
+    margin-left: 5%;
+    margin-bottom: 5%;
 }
