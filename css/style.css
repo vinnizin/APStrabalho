@@ -11,6 +11,16 @@
     width: 10%;
 }
 
+.iconesTopo {
+    display: inline-block;
+    text-align: center;
+    margin: 40px;
+}
+
+.lbt {
+    width: 5%;
+}
+
 header {
     position: fixed;
     width: 100%;
