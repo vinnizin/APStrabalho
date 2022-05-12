@@ -3,6 +3,10 @@
     font-weight: 500;
 }
 
+main {
+    background-color: black;
+}
+
 #cima {
     text-align: center;
 }
@@ -11,12 +15,25 @@
     width: 10%;
 }
 
-.iconesTopo {
+#iconesTopo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+
+}
+
+.iconeEspaco{
+    margin-left: 50px;
+
+}
+
+#alinharCard {
+    float: left;
 }
 
 .lbt {
-    width: 5%;
+    width: 100%;
     color:black;
 }
 
@@ -32,10 +49,7 @@ header {
 }
 
 .imgfloat{
-    margin-left: 10%;
-    margin-bottom: 5%;
-    width: 85%;
-    border-radius: 12px;
+    width: 90%;
     box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.288);
 }
 
@@ -44,7 +58,7 @@ hr{
 }
 
 .fundofloat{
-    background-color: #F8f9fa;
+    background-color: whitesmoke;
     margin: 50px 0;
 }
 
@@ -87,6 +101,6 @@ hr{
 }
 .txt{
     color:black;
-    margin-left: 5%;
     margin-bottom: 5%;
+    word-spacing: 10px;
 }
