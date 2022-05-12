@@ -43,3 +43,34 @@ h5{
     bottom: 15px;
     margin-right: 10px;
 }
+
+#b1{
+    background-color: aquamarine;
+}
+
+#f2{
+    margin-top: 30px;
+    padding: 150px 60px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.384);
+    background-image: url("../imagens/3.jpg");
+    color: black;
+}
+p{
+    color: white;
+}
+h5{
+    color:white;
+}
+
+#h51{
+    color:black;
+}
+
+#h52{
+    color: black;
+}
+.txt{
+    color:black;
+}
