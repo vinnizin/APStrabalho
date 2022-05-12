@@ -3,10 +3,6 @@
     font-weight: 500;
 }
 
-main {
-    background-color: black;
-}
-
 #cima {
     text-align: center;
 }
@@ -50,7 +46,8 @@ header {
 
 .imgfloat{
     width: 90%;
-    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.288);
+    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.144);
+    margin: 0px;
 }
 
 hr{
@@ -87,7 +84,7 @@ hr{
     padding: 150px 60px;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.384);
+    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.082);
     background-image: url("../imagens/3.jpg");
     color: black;
 }
@@ -103,4 +100,8 @@ hr{
     color:black;
     margin-bottom: 5%;
     word-spacing: 10px;
+}
+
+.txt1{
+    margin-left: 20px;
 }
