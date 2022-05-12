@@ -63,9 +63,9 @@ hr{
 
 #link-topo{
     text-decoration: none;
-    padding: 20px;
+    padding: 10px;
     color:rgb(255, 255, 255);
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: rgba(39, 199, 52, 0.85);
     border-radius: 20px;
     position: fixed;
     right: 3px;
