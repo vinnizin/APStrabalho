@@ -1,104 +1,6 @@
-.alterafonte {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-}
-
-#cima {
-    text-align: center;
-}
-
-#cimalinha {
-    width: 10%;
-}
 
 
 
-#textos1{
-    margin: 40px 60px;
-}
-
-#textoUmEsquerda {
-    text-align: left;
-}
-
-.iconeEspaco{
-    margin-left: 50px;
-
-}
-
-#alinharCard {
-    float: left;
-}
-
-.lbt {
-    width: 100%;
-    color:black;
-}
-
-header {
-    position: fixed;
-    width: 100%;
-    top: 0px;
-    z-index: 999;
-}
-
-.navbar{
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.123);
-}
-
-hr{
-    width: 70%;
-}
-
-.fundofloat{
-    background-color: whitesmoke;
-    margin: 50px 0;
-}
-
-#hrum{
-    color: #F8f9fa;
-}
-
-#link-topo{
-    text-decoration: none;
-    padding: 10px;
-    color:rgb(255, 255, 255);
-    background-color: rgba(39, 199, 52, 0.85);
-    border-radius: 20px;
-    position: fixed;
-    right: 3px;
-    bottom: 15px;
-    margin-right: 10px;
-}
-
-#b1{
-    background-color: aquamarine;
-}
-
-#f2{
-    margin-top: 30px;
-    padding: 150px 60px;
-    border: none;
-    border-radius: 15px;
-    box-shadow: 0 20px 30px 10px rgba(0, 0, 0, 0.082);
-    background-image: url("../imagens/3.jpg");
-    color: black;
-}
-
-#h51{
-    color:black;
-}
-
-#h52{
-    color: black;
-}
-<<<<<<< Updated upstream
-=======
-.txt{
-    color:black;
-    margin-bottom: 5%;
-    word-spacing: 10px;
-}
 /* CSS reset */
 *, *:before, *:after { 
     margin:0;
@@ -118,6 +20,7 @@ hr{
  
   
   .content{
+    top: 50px;
     width: 500px;
     min-height: 560px;    
     margin: 0px auto;
@@ -215,19 +118,6 @@ hr{
   input[type="submit"]:hover{
     background: #4ac64a;
 }
-  
-  
-  .link{
-    position: absolute;
-    background: #ffffffe7;
-    color: #7f7c7c;
-    left: 0px;
-    height: 20px;
-    width: 440px;
-    padding: 17px 30px 20px 30px;
-    font-size: 16px;
-    text-align: right;
-    border-top: 1px solid #dbe5e8;
    
     -webkit-border-radius: 0 0  5px 5px;
     border-radius: 0 0  5px 5px;
@@ -340,6 +230,4 @@ hr{
       opacity: 0;
       transform: translateX(-20px);
     }
-} 
-
->>>>>>> Stashed changes
+}
