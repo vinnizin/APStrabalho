@@ -11,13 +11,7 @@
     width: 10%;
 }
 
-#iconesTopo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
 
-}
 
 #textoUmEsquerda {
     text-align: left;
