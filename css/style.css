@@ -11,7 +11,13 @@
     width: 10%;
 }
 
+#iconesTopo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 
+}
 
 #textos1{
     margin: 40px 60px;
