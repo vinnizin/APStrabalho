@@ -58,7 +58,6 @@ hr{
 
 .fundofloat{
     background-color: whitesmoke;
-    margin: 50px 0;
 }
 
 #hrum{
@@ -99,6 +98,29 @@ hr{
     color: black;
 }
 
+
 #ranking-titulo {
     margin-bottom: 30px;
+
+.featurette-heading{
+  margin-left: 200px;
+}
+
+.lead{
+  margin-left: 50px;
+}
+
+.col-md-5{
+  padding: 0px 100px;
+}
+
+.bd-placeholder-img{
+  margin-bottom: 10px;
+}
+
+#hr3{
+  width: 700px;
+  text-align: center;
+  margin-left: 350px;
+
 }
