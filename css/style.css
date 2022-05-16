@@ -129,3 +129,7 @@ hr{
 .videos{
     text-align: center;
 }
+
+#titulo-video {
+    margin-top: 40px;
+}
