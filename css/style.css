@@ -132,7 +132,11 @@ hr{
 #titulo-video {
     margin-top: 40px;
 }
-.h5txt, .h2txt{
-    margin-left: 100px;
-    margin-right: 100px;
+
+#alterar-tamanho1{
+    margin-top: 65px;
+}
+
+#alterar-tamanho2{
+    margin-top: 100px;
 }
