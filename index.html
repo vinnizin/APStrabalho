@@ -239,6 +239,27 @@
           d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5z" />
     </svg></a>
 
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			// esconde e mostra o btn
+			$(window).scroll(function() {
+			if ($(this).scrollTop() > 160) { // distancia que tem que rolar antes de aparecer
+				$('#link-topo').fadeIn(250);
+			} else {
+				$('#link-topo').fadeOut(250);
+			}
+			});
+			// manda pro topo
+			$('#link-topo').click(function(event) {
+			event.preventDefault();
+			$('html, body').animate({scrollTop: 0}, 1200);
+			});
+
+		});
+	</script>
+
+
     <!-- FIM BOTÃO DE SUBIR -->
     
     <center>
